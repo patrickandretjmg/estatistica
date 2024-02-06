@@ -1,0 +1,22 @@
+{
+  "functions": {
+    "api/*.php": {
+      "runtime": "vercel-php@0.6.1"
+    },
+
+    "api/index.php": {
+      "runtime": "vercel-php@0.6.1"
+    },
+    "api/triagem.php": {
+      "runtime": "vercel-php@0.6.1"
+    },
+
+    "api/atermação.php": {
+      "runtime": "vercel-php@0.6.1"
+      
+    },
+    "api/atendimento.php": {
+      "runtime": "vercel-php@0.6.1"
+    }
+  }
+}
